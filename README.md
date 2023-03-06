@@ -66,6 +66,9 @@ class FancyCard extends StatelessWidget {
 ```
 
 </td>
+<td>
+  <img  src="https://github.com/Arun100203/Arun100203/blob/main/svg/P_flutter_ing.jpeg"  alt="fancy card image">
+  </td>
 </tr>
 </table>
 
