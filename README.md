@@ -68,8 +68,9 @@ class FancyCard extends StatelessWidget {
 </td>
 </tr>
 </table>
- <img  src="https://github.com/Arun100203/Arun100203/blob/main/svg/flutter_dash.jpeg"  alt="fancy card image">
  
+ ![flutter_dash](https://github.com/Arun100203/FancyGradientCard/assets/108601293/5cc243de-b9ae-4b1d-a475-8cd950051a84)
+
 
 ## Next Goals
 
